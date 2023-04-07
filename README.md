@@ -1,0 +1,1 @@
+Releases for the Smart Restaurant Suite POS Terminal.
